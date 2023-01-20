@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffa4b3&height=300&section=header&text=HYO%20RYEONG&fontSize=90&fontColor=fff)
 
-<h5 align="center">반갑습니다. 😝🙌<br> 제 이름은 장효령이고 프론트엔드를 공부하고 있어요! <br>
-  현재 대학교 휴학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.</h5><br><br>
+<p align="center">반갑습니다. 😝🙌<br> 제 이름은 장효령이고 프론트엔드를 공부하고 있어요! <br>
+  현재 대학교 휴학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.</p><br>
+  
   <p align="center">💌Email💌</p>
-  <p align="center">a01012349071@gmail.com</p>
+  <p align="center">a01012349071@gmail.com</p><br>
+  
 <h5 align="center">👻 Tech Stack 👻</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Html-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
