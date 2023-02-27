@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffa4b3&height=300&section=header&text=HYO%20RYEONG&fontSize=90&fontColor=fff)
 
-<p align="center">반갑습니다. 😝🙌<br> 제 이름은 장효령이고 프론트엔드를 공부하고 있어요! <br>
-  현재 대학교 졸업예정이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.</p><br>
+<p align="center">반갑습니다. 😝🙌<br> 제 이름은 장효령이고 프론트엔드 공부하고 있어요! <br>
+  현재 대학교 졸업했으며 뭐든 배우려는 자세로 학습에 임하고 있습니다.</p><br>
   
 
   
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 </p>
 <br>
   <h4 align="center">💌Email💌</h4>
-  <p align="center">a01012349071@gmail.com</p><br>
+  <p align="center">a01024889071@gmail.com</p><br>
