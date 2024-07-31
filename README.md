@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 ### 자기소개
 
 - 🚀 아이디어를 코드로 실현하는 것을 즐깁니다.
-- 🌱 현재 [Next.js]을 배우고 있습니다.
-- 💬 프론트엔드 개발과 관련된 질문이 있다면 언제든지 물어보세요.
-- 📫 연락 방법 : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/령-효-586bab317)\
+- 🌱 현재 [Next.js, TDD]을 배우고 있습니다.
+- 💬 이야기 하는 것을 좋아하고, 듣는 것 또한 좋아합니다.
+- 📫 연락 방법 : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/령-효-586bab317)
 - 📝 블로그 : [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ryeong1109/posts)
 
-
-### 🛠️ 기술 스택
 
 ### 🛠️ 기술 스택
 
