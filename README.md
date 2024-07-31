@@ -30,18 +30,21 @@ Here are some ideas to get you started:
 ### 🛠️ 기술 스택
 
 - **프론트엔드**: 
-  - React
-  - JavaScript (ES6+)
-  - TypeScript
-  - SCSS
-  - Styled-Components
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  - ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 - **백엔드**: 
-  - Node.js
+ - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 📈 GitHub 통계
+
+<!-- ### 📈 GitHub 통계
 
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![사용 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![사용 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) -->
 
  <!-- ### 🌐 소셜 링크
 
@@ -51,7 +54,7 @@ Here are some ideas to get you started:
  필요에 따라 더 많은 배지와 소셜 미디어 링크를 추가할 수 있습니다 -->
 
 ### 📜 블로그
-![Velog](https://velog.io/@ryeong1109/posts)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ryeong1109/posts)
 
 
 
