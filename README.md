@@ -25,20 +25,35 @@ Here are some ideas to get you started:
 - 🚀 아이디어를 코드로 실현하는 것을 즐깁니다.
 - 🌱 현재 [Next.js]을 배우고 있습니다.
 - 💬 프론트엔드 개발과 관련된 질문이 있다면 언제든지 물어보세요.
-- 📫 연락 방법: [linkedin.com/in/령-효-586bab317]
+- 📫 연락 방법: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/령-효-586bab317)
+
 
 ### 🛠️ 기술 스택
+<table>
+  <tr>
+    <td><strong>프론트엔드</strong></td>
+    <td><strong>백엔드</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</li>
+        <li>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</li>
+        <li>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</li>
+        <li>![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)</li>
+        <li>![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</li>
+        <li>![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)</li>
+        <li>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **프론트엔드**: 
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  - ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- **백엔드**: 
- - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 <!-- ### 📈 GitHub 통계
