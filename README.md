@@ -13,24 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffa4b3&height=300&section=header&text=HYO%20RYEONG&fontSize=90&fontColor=fff)
+![헤더 이미지](https://ac-p3.namu.la/20210520/4b17730ac450411bf98395a77e47acf862d8d5db89e16233c478f0b80cb91579.jpg?expires=1722400795&key=z27rE_yiTeKuW3RKb6axvA&type=orig)  <!-- 재미있는 이미지를 첨부할 수 있는 URL을 추가하세요 -->
 
-<p align="center">반갑습니다. 😝🙌<br> 제 이름은 장효령이고 프론트엔드 공부하고 있어요! <br>
-  뭐든 배우려는 자세로 학습에 임하고 있습니다.</p><br>
-  
+# 안녕하세요, 저는 프론트 개발자 [장효령]입니다! 👋
 
-  
-<h4 align="center">👻 Tech Stack 👻</h4>
+타인에게 망설임 없이 추천할 수 있는, 일상 속에 자연스럽게 스며드는 제품을 개발하는 것을 목표로 하고 있습니다. 좋은 제품을 만들기 위해 유저의 상황에 몰입하여 최선의 방향을 고민하고, 적극적으로 커뮤니케이션합니다.
+유연하게 변화에 적응하며, 새로운 도전을 즐깁니다.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-</p>
-<br>
-  <h4 align="center">💌Email💌</h4>
-  <p align="center">a01024889071@gmail.com</p><br>
+### 자기소개
+
+- 🚀 아이디어를 코드로 실현하는 것을 즐깁니다.
+- 🌱 현재 [Next.js]을 배우고 있습니다.
+- 💬 프론트엔드 개발과 관련된 질문이 있다면 언제든지 물어보세요.
+- 📫 연락 방법: [linkedin.com/in/령-효-586bab317]
+
+### 🛠️ 기술 스택
+
+- **프론트엔드**: 
+  - React
+  - JavaScript (ES6+)
+  - TypeScript
+  - SCSS
+  - Styled-Components
+- **백엔드**: 
+  - Node.js
+
+### 📈 GitHub 통계
+
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![사용 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+ <!-- ### 🌐 소셜 링크
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+ 필요에 따라 더 많은 배지와 소셜 미디어 링크를 추가할 수 있습니다 -->
+
+### 📜 블로그
+![Velog](https://velog.io/@ryeong1109/posts)
+
+
+
