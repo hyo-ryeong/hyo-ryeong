@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![헤더 이미지](https://ac-p3.namu.la/20210520/4b17730ac450411bf98395a77e47acf862d8d5db89e16233c478f0b80cb91579.jpg?expires=1722400795&key=z27rE_yiTeKuW3RKb6axvA&type=orig)  <!-- 재미있는 이미지를 첨부할 수 있는 URL을 추가하세요 -->
+![헤더 이미지](https://ibb.co/SNPNpPk)  <!-- 재미있는 이미지를 첨부할 수 있는 URL을 추가하세요 -->
 
 # 안녕하세요, 저는 프론트 개발자 [장효령]입니다! 👋
 
