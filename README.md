@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![헤더 이미지](https://ibb.co/SNPNpPk)  <!-- 재미있는 이미지를 첨부할 수 있는 URL을 추가하세요 -->
+[![github](https://i.ibb.co/sj2jr2T/github.png)](https://ibb.co/SNPNpPk)
+  <!-- 재미있는 이미지를 첨부할 수 있는 URL을 추가하세요 -->
 
 # 안녕하세요, 저는 프론트 개발자 [장효령]입니다! 👋
 
