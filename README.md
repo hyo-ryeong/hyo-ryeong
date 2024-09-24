@@ -25,8 +25,9 @@ UX를 견고하게 만드는 데에 큰 관심이 있으며, 작은 디테일까
 - 🚀 아이디어를 코드로 실현하는 것을 즐깁니다.
 - 🌱 현재 [오픈소스 기여]에 노력중 입니다.
 - 💬 이야기 하는 것을 좋아하고, 듣는 것 또한 좋아합니다.
-<!-- - 📫 연락 방법 : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/령-효-586bab317) -->
 - 📝 끄적 메모장 : [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ryeong1109/posts)
+<!-- - 📫 연락 방법 : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/령-효-586bab317) -->
+
 
 
 ### 🛠️ 기술 스택
